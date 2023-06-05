@@ -1,0 +1,3 @@
+[submodule "JobApplication"]
+	path = JobApplication
+	url = https://github.com/abdellaouiamir/AngularJobFinder.git
